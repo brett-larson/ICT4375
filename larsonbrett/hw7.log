@@ -1,0 +1,55 @@
+Ready for connections
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51086
+  Date  : Wed May 27 16:46:24 EDT 2020
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51102
+  Date  : Wed May 27 16:48:01 EDT 2020
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51112
+  Date  : Wed May 27 16:49:42 EDT 2020
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51170
+  Date  : Wed May 27 16:52:31 EDT 2020
+Read line: Brett
+Sent response 708124877
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51275
+  Date  : Wed May 27 17:02:16 EDT 2020
+Read line: Brett
+Sent response 2041699254
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51283
+  Date  : Wed May 27 17:03:01 EDT 2020
+Read line: Brett
+Sent response 2089471786
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51284
+  Date  : Wed May 27 17:03:13 EDT 2020
+Read line: Brett
+Sent response 1349229538
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51287
+  Date  : Wed May 27 17:03:41 EDT 2020
+Read line: Brett
+Sent response 285003072
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51316
+  Date  : Wed May 27 17:05:57 EDT 2020
+Read line: Brett
+Sent response 736078930
+Received client connection
+  Socket: /192.168.1.8:51061
+  Remote: /192.168.1.8:51582
+  Date  : Wed May 27 17:25:36 EDT 2020
+Read line: Brett
+Sent response 1712400905
